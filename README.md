@@ -108,7 +108,7 @@ To activate the Tor proxy for your current terminal session, simply run:
 ```bash
 startproxy
 ```
-
+![start proxy](./start-proxy.png)
 ### 2. **Stop the Proxy**
 
 To disable the proxy and remove the environment variables, run:
