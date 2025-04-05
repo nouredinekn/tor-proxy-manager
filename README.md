@@ -116,7 +116,7 @@ To disable the proxy and remove the environment variables, run:
 ```bash
 stopproxy
 ```
-
+![start proxy](./stop-proxy.png)
 ### 3. **Automatic Proxy Activation**
 
 Each time you open a new terminal, the `startproxy` function will automatically activate Tor if it isn't already enabled.
